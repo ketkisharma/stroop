@@ -77,9 +77,11 @@ Each participant will go through and record a time from each condition.
    sample data. Write one or two sentences noting what you observe about
    the plot or plots.__
 
-   The boxplot (see ![Reaction Times](reaction_times.png)) for the congruent and incongruent conditions shows
+   The boxplot below for the congruent and incongruent conditions shows
    the distribution and the median values for the reaction time (in
    seconds) for the two task conditions.
+   
+   ![Reaction Times](reaction_times.png)
 
 5.  __Now, perform the statistical test and report your results.  What is
    your confidence level and your critical statistic value?  Do you
