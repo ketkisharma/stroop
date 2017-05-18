@@ -1,4 +1,4 @@
-# Udacity - Project1: Test a Perceptual Phenomenon
+# Udacity Data Analyst NanoDegree - Project1: Test a Perceptual Phenomenon
 
 ## Background Information
 
@@ -136,14 +136,4 @@ Each participant will go through and record a time from each condition.
    - Second Condition
     - `HORSE GOAT LION PARROT ELEPHANT`
 
-## List of Resources
 
-1.  Stroop, John Ridley (1935). "Studies of interference in serial verbal reactions". Journal of Experimental Psychology. 18 (6): 643–662. doi:10.1037/h0054651.
-
-2.  https://support.microsoft.com/en-us/help/214269/how-to-use-the-histogram-tool-in-excel
-
-3.  http://onlinestatbook.com/2/summarizing_distributions/variance_sum_law.html
-
-4.  https://graphpad.com/quickcalcs/PValue1.cfm
-
-5.  https://faculty.washington.edu/chudler/words.html
